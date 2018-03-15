@@ -32,7 +32,7 @@ apis:
   tags: Copy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-graph/users-id-|-userprincipalname-mailfolders-id-copy-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-graph/me-messages-id-copy-post.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
