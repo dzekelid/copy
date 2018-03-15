@@ -25,7 +25,7 @@ apis:
   tags: Copy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-office-365/messages-message-id-copy-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-office-365/messages-message-id-copy-parameters.md
 x-common:
 - type: x-developer
   url: http://dev.office.com
