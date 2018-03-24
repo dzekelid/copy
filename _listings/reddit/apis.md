@@ -17,9 +17,9 @@ tags:
 - Media
 - Links
 - Evangelism
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/reddit/apis.yaml
+created: "2018-03-23"
+modified: "2018-03-23"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/reddit/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Reddit
@@ -32,7 +32,7 @@ apis:
   tags: Copy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/reddit/multi-copy-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/reddit/multi-copy-post.md
 x-common:
 - type: x-authentication
   url: https://github.com/reddit/reddit/wiki/OAuth2
