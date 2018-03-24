@@ -18,9 +18,9 @@ tags:
 - Files
 - Email
 - Contact
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-graph/apis.yaml
+created: "2018-03-23"
+modified: "2018-03-23"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Microsoft Graph API
@@ -32,7 +32,7 @@ apis:
   tags: Copy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-graph/users-id-|-userprincipalname-mailfolders-id-messages-id-copy-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/me-mailfolders-id-copy-post.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
