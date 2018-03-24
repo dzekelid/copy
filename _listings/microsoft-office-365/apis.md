@@ -11,9 +11,9 @@ tags:
 - Spreadsheets
 - Productivity
 - Documents
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-office-365/apis.yaml
+created: "2018-03-23"
+modified: "2018-03-23"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-office-365/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Microsoft Office 365
@@ -25,7 +25,7 @@ apis:
   tags: Copy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/copy/master/_listings/microsoft-office-365/messages-message-id-copy-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-office-365/messages-message-id-copy-post.md
 x-common:
 - type: x-developer
   url: http://dev.office.com
