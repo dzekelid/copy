@@ -26,7 +26,24 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-office-365/messages-message-id-copy-parameters.md
+- name: Microsoft Office 365 Add Messages Message Copy
+  description: Post messages message  copy
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
+  humanURL: http://office.com
+  baseURL: https://outlook.office365.com//ews/odata/Me
+  tags: Copy
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-office-365/messages-message-id-copy-post.md
 x-common:
+- type: x-developer
+  url: http://dev.office.com
+- type: x-github
+  url: https://github.com/OfficeDev
+- type: x-twitter
+  url: https://twitter.com/OfficeDev
+- type: x-website
+  url: http://office.com
 - type: x-developer
   url: http://dev.office.com
 - type: x-github
