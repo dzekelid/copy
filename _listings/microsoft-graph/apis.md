@@ -33,15 +33,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/users-id-|-userprincipalname-mailfolders-id-messages-id-copy-post.md
-- name: Microsoft Graph API Mail Folder Copy
-  description: 'mailFolder: copy Copy a mailfolder and its contents to another mailfolder.'
+- name: Microsoft Graph API Message Copy
+  description: 'message: copy Copy a message to a folder.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Copy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/users-id-|-userprincipalname-mailfolders-id-copy-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/me-messages-id-copy-post.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
