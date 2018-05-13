@@ -34,16 +34,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/box/folders-folder-id-copy-post.md
-- name: Box Copy File
-  description: Used to create a copy of a file in another folder. The original version
-    of the file will not be altered.
+- name: Box Copy Folder
+  description: Used to create a copy of a folder in another folder. The original version
+    of the folder will not be altered.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/box1200x630.jpg
   humanURL: http://box.com
   baseURL: https://api.box.com//2.0
   tags: Copy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/box/files-file-id-copy-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/box/folders-folder-id-copy-post.md
 x-common:
 - type: x-base
   url: https://api.box.com/
