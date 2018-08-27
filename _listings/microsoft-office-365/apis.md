@@ -7,11 +7,22 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Copy
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-office-365/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Microsoft Office 365 - Add Messages Message Copy
+  x-api-slug: messagesmessage-idcopy-post
+  description: Post messages message  copy
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
+  humanURL: http://office.com
+  baseURL: https://outlook.office365.com//ews/odata/Me
+  tags: Spreadsheets, Documents, Stack Network, Stack, Productivity, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-office-365/messagesmessage-idcopy-post-openapi.md
 - name: Microsoft Office 365 - Parameters Messages Message Copy
   x-api-slug: messagesmessage-idcopy-parameters
   description: Parameters messages message  copy

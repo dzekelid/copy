@@ -12,11 +12,77 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Copy
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Microsoft Graph API - Mail Folder Copy
+  x-api-slug: memailfoldersidcopy-post
+  description: 'mailFolder: copy Copy a mailfolder and its contents to another mailfolder.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/memailfoldersidcopy-post-openapi.md
+- name: Microsoft Graph API - Mail Folder Copy
+  x-api-slug: usersid--userprincipalnamemailfoldersidcopy-post
+  description: 'mailFolder: copy Copy a mailfolder and its contents to another mailfolder.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/usersid--userprincipalnamemailfoldersidcopy-post-openapi.md
+- name: Microsoft Graph API - Message Copy
+  x-api-slug: memessagesidcopy-post
+  description: 'message: copy Copy a message to a folder.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/memessagesidcopy-post-openapi.md
+- name: Microsoft Graph API - Message Copy
+  x-api-slug: usersid--userprincipalnamemessagesidcopy-post
+  description: 'message: copy Copy a message to a folder.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/usersid--userprincipalnamemessagesidcopy-post-openapi.md
+- name: Microsoft Graph API - Message Copy
+  x-api-slug: memailfoldersidmessagesidcopy-post
+  description: 'message: copy Copy a message to a folder.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/memailfoldersidmessagesidcopy-post-openapi.md
+- name: Microsoft Graph API - Message Copy
+  x-api-slug: usersid--userprincipalnamemailfoldersidmessagesidcopy-post
+  description: 'message: copy Copy a message to a folder.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/microsoft-graph/usersid--userprincipalnamemailfoldersidmessagesidcopy-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://messente.api.gallery.streamdata.io

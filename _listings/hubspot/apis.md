@@ -13,8 +13,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/213-hubspo
 x-kinRank: "7"
 x-alexaRank: "584"
 tags: Copy
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/copy/master/_listings/hubspot/apis.md
 specificationVersion: "0.14"
 apis: []
